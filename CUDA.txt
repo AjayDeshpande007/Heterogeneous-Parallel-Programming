@@ -1,0 +1,6 @@
+File Created Successfully for CUDA
+CUDA device set successful 1
+gmesh_width 2048
+gmesh_height 2048
+initialize function successful
+Error : Cuda Graphics is unregisteres

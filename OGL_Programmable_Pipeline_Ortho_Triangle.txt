@@ -1,0 +1,4 @@
+File Created Successfully for OGL_Programmable_Pipeline_Ortho_Triangle
+CUDA device set successful 1
+initialize function successful
+File Closed Successfully
